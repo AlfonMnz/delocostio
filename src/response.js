@@ -10,9 +10,13 @@ module.exports = {
         'QUE ALGUIEN PARE A ESTE HOMBRE ESTÁ LOCO',
         'Es un puto loco',
         'Simplemente de locos',
+        'Nah, estás de la putísima olla',
+        'Pero qué coño haces puto loco?',
     ],
     accounts: [
         '2754746065',
         '1484784811',
+        '145775695',
+        '274708552'
     ]
 }
