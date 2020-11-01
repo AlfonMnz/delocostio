@@ -12,6 +12,8 @@ module.exports = {
         'Simplemente de locos',
         'Nah, estás de la putísima olla',
         'Pero qué coño haces puto loco?',
+        'Te has vuelto totalmente loco',
+        'Estamos locos o qué pasa?'
     ],
     accounts: [
         '2754746065',
