@@ -17,7 +17,7 @@ module.exports = {
         'Te has vuelto totalmente loco',
         'Estamos locos?',
         'Madre mía que LOCO estás',
-        'DE   LOWCOST'
+        'D E   L O W C O S T'
 
     ],
     accounts: [
